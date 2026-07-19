@@ -1,7 +1,7 @@
-<!-- PACMAN HEADER -->
+<!-- STABLE HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=GAME%20ON:%20m1rr0r1ng-qt&fontSize=35&fontAlignY=50&animation=twinkling&fontColor=00ff00" alt="Pacman Header" />
-  <img src="https://raw.githubusercontent.com/bchiang7/github-readme-pacman/main/pacman.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=WELCOME%20TO%20MY%20REPO&fontSize=30&fontAlignY=50&animation=twinkling&fontColor=00ff00" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Game+On!;I+am+m1rr0r1ng-qt;Welcome+to+my+domain" />
 </div>
 
 
