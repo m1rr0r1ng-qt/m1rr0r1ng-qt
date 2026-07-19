@@ -1,6 +1,6 @@
 <!-- ARCADE PAC-MAN OYUNU -->
 <div align="center">
-  <h1>🎮 m1rr0r1ng-qt's Arcade</h1>
+  <h1>🎮</h1>
   <img src="https://raw.githubusercontent.com/m1rr0r1ng-qt/m1rr0r1ng-qt/output/pacman-contribution-graph.svg" width="100%" alt="Pacman Game" />
 </div>
 
