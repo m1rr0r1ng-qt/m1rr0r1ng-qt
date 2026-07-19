@@ -45,12 +45,5 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m1rr0r1ng-qt&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff00&icon_color=00ff00&v=1" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m1rr0r1ng-qt&theme=tokyonight&hide_border=true&title_color=00ff00&v=1" width="48%" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m1rr0r1ng-qt&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff00&v=2" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m1rr0r1ng-qt&theme=tokyonight&hide_border=true&title_color=00ff00" alt="GitHub Streak" />
 </div>
