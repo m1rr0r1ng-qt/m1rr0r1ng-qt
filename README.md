@@ -47,3 +47,9 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m1rr0r1ng-qt&theme=tokyonight&hide_border=true&title_color=00ff00" alt="GitHub Streak" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Footer Wave" />
+</div>
