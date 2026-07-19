@@ -1,3 +1,10 @@
+<!-- PACMAN HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=GAME%20ON:%20m1rr0r1ng-qt&fontSize=35&fontAlignY=50&animation=twinkling&fontColor=00ff00" alt="Pacman Header" />
+  <img src="https://raw.githubusercontent.com/bchiang7/github-readme-pacman/main/pacman.svg" width="100%" />
+</div>
+
+
 <!-- WAVING HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi,%20I'm%20m1rr0r1ng-qt&fontSize=40&fontAlignY=35&animation=twinkling" />
@@ -49,9 +56,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
-</div>
-
-### 🐍 Contribution Grid Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/m1rr0r1ng-qt/m1rr0r1ng-qt/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
