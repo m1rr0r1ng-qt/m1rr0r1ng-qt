@@ -1,4 +1,4 @@
-<!-- ARCADE PAC-MAN OYUNU -->
+<!-- ARCADE PAC-MAN -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/m1rr0r1ng-qt/m1rr0r1ng-qt/output/pacman-contribution-graph.svg" width="100%" alt="Pacman Game" />
 </div>
@@ -6,8 +6,9 @@
 
 <!-- WAVING HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi,%20I'm%20m1rr0r1ng-qt&fontSize=40&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header" alt="Header Wave" />
 </div>
+
 
 <!-- TYPING EFFECT -->
 <h1 align="center">
