@@ -1,21 +1,8 @@
-<!-- ARCADE TOP HEADER (PAC-MAN) -->
+<!-- ARCADE PAC-MAN OYUNU -->
 <div align="center">
-  <!-- OYUN BAŞLIĞI VE SENİN ADIN -->
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&weight=600&size=25&pause=1000&color=FFFF00&center=true&vCenter=true&width=600&lines=m1rr0r1ng-qt's+Arcade;HIGH+SCORE:+99999" />
-  </h1>
-  
-  <!-- HAREKETLİ PAC-MAN OYUN SİMÜLASYONU (GIF) -->
-  <img src="https://gist.githubusercontent.com/username-or-path-to-gif/pacman_game.gif" width="100%" alt="Pac-Man Arcade Game" />
-  
-  <br/>
-  
-  <!-- OYUN BİLGİSİ (OPSİYONEL, SİLEBİLİRSİN) -->
-  <p align="center">
-    <i>Press START to play... (Just kidding, it's an animation 😉)</i>
-  </p>
+  <h1>🎮 m1rr0r1ng-qt's Arcade</h1>
+  <img src="https://raw.githubusercontent.com/m1rr0r1ng-qt/m1rr0r1ng-qt/output/pacman-contribution-graph.svg" width="100%" alt="Pacman Game" />
 </div>
-
 
 
 <!-- WAVING HEADER -->
