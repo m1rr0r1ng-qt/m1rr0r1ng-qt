@@ -45,14 +45,18 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m1rr0r1ng-qt&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff00&icon_color=00ff00" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m1rr0r1ng-qt&theme=tokyonight&hide_border=true&title_color=00ff00" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m1rr0r1ng-qt&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff00&icon_color=00ff00" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m1rr0r1ng-qt&theme=tokyonight&hide_border=true&title_color=00ff00" width="48%" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1rr0r1ng-qt&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff00" width="48%" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m1rr0r1ng-qt&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff00" width="48%" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
